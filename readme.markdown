@@ -3,6 +3,6 @@
 
 
 # License
-Copyright 2017 Danieka Cassol
+Copyright 2017 Daniela Cassol
 
 [license]: https://github.com/dcassol/dcassol.github.io/blob/master/LICENSE
