@@ -4,6 +4,6 @@ title: March 2010 - February 2012
 subtitle:
 image: "img/timeline/ufv.gif"
 ---
-Master's in Plant Physiology
-Federal University of Viçosa, UFV, Viçosa, Brazil
-Advisor: Dr. José Cambraia
+<p>Master's in Plant Physiology<p>
+<p>Federal University of Viçosa, UFV, Viçosa, Brazil<p>
+<p>Advisor: Dr. José Cambraia<p>
