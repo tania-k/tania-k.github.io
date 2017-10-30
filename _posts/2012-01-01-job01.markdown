@@ -1,7 +1,9 @@
 ---
 layout: null
-title: May 2012 - January 2013
+title: March 2010 - February 2012
 subtitle:
-image: "img/timeline/2.jpg"
+image: "img/timeline/ufv.gif"
 ---
-Ex mei electram eloquentiam. An torquatos intellegebat pro, solum liber saepe et eos. Postea essent meliore ne mei, brute referrentur et eum, cum ei oblique tincidunt definitiones.
+Master's in Plant Physiology
+Federal University of Viçosa, UFV, Viçosa, Brazil
+Advisor: Dr. José Cambraia
