@@ -1,7 +1,7 @@
 ---
 layout: null
-title: June 2014 - Present
+title: October 2017 - Present
 subtitle:
-image: "img/timeline/4.jpg"
+image: "img/timeline/ucr.png"
 ---
-An sea adhuc graece gloriatur. Ferri liberavisse eu mea, has ei nibh atomorum. Ex putant nominavi indoctum mei. Qualisque dignissim his eu, ei his dictas nusquam.
+Postdoctoral Researcher UCR.
