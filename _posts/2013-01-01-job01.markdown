@@ -4,6 +4,6 @@ title: January 2013 - June 2014
 subtitle:
 image: "img/timeline/ufrj.jpg"
 ---
-PhD in Biological Sciences (Genetics)| 2012 – 2016
-Federal University of Rio de Janeiro, Rio De Janeiro, Brazil
-Advisor: Dr. Gilberto Sachetto- Martins
+<p>PhD in Biological Sciences (Genetics)</p>
+<p>Federal University of Rio de Janeiro, Rio De Janeiro, Brazil</p>
+<p>Advisor: Dr. Gilberto Sachetto- Martins</p>
