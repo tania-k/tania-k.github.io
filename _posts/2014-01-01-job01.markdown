@@ -4,4 +4,4 @@ title: October 2017 - Present
 subtitle:
 image: "img/timeline/ucr.png"
 ---
-Postdoctoral Researcher UCR.
+Postdoctoral Researcher at UCR.

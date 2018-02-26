@@ -1,9 +1,9 @@
 ---
 layout: null
-title: March 2010 - February 2012
+title: February 2012 - May 2016
 subtitle:
-image: "img/timeline/ufv.gif"
+image: "img/timeline/ufrj.jpg"
 ---
-<p>Master's in Plant Physiology</p>
-<p>Federal University of Viçosa, UFV, Viçosa, Brazil</p>
-<p>Advisor: Dr. José Cambraia</p>
+<p>PhD in Biological Sciences (Genetics).</p>
+<p>Federal University of Rio de Janeiro, Brazil.</p>
+<p>Advisor: Dr. Gilberto Sachetto-Martins.</p>
