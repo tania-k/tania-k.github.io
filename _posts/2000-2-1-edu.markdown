@@ -3,7 +3,7 @@ layout: default
 img: rice.JPG
 category: Education
 title: Bachelor's in Microbiology
-description: |
+description: Experience in working with methanogens (anaerobic archaea Methanobrevibacter smithii) and infecting with a phage Phage G.
 ---
 
 * __2010 - 2013__
