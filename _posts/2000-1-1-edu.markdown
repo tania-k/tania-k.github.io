@@ -2,13 +2,12 @@
 layout: default
 img: phd.JPG
 category: Education
-title: PhD in Genetics
-description: 2012-2016
+title: M.Sc. in Biology
+description: 2014-2016
 ---
 
-* __2012 - 2016__
-* Federal University of Rio de Janeiro, Rio De Janeiro, Brazil
-* The global study of differentially regulated transcriptome in the response and tolerance pathway to the drought stress in castor bean (*Ricinus communis*)
-* Advisor: Dr. Gilberto Sachetto-Martins
-* Scholarship from: CNPq and FAPERJ
+* __2014 - 2016__
+* California State University, Northridge
+* Worked with a soil inhabiting microorganism (*Sporosarcina ureae*). 50 strains were isolated from all over the world through prior efforts by Bernadine Pregerson. My work focused on taking these strains running Biolog to understand and confirm the metabolic testing done, and 16S ribosomal RNA typing was done to observe if spacial isolations provided any patterns to their phylogeny.
+* Advisor: Dr. Larry Baresi
  
