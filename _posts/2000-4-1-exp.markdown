@@ -2,11 +2,11 @@
 layout: default
 img: code.jpg
 category: Experiences
-title: "Postdoctoral Researcher"
+title: Graduate Student
 description: |
 ---
 
 * __2017 – Current__
 * University of California, Riverside
-* Position: ​Postdoctoral Researcher under Dr. Thomas Girke
-* Activities: ​Current research focuses on the development of computational data analysis methods for genome biology. Please, see more information [here](https://www.dcassol.com/#projects).
+* Position: ​Graduate Student under Dr. Jason Stajich
+* Activities: ​Current research is focusing on studying Micro-Colonial Fungi (MCFs) isolated from Biological Soil Crusts (BSCs)
