@@ -1,8 +1,8 @@
 ---
 layout: default
 img: Desert Coniosporium apollonius.mp4
-category: Experiences
-title: Graduate Student
+category: Education
+title: PhD Candidate
 description: |
 ---
 
