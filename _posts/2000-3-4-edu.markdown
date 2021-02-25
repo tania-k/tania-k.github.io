@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 
+img: batchelors.jpg
 category: Education
 title: Bachelor's in Microbiology
 description: Experience in working with methanogens (anaerobic archaea Methanobrevibacter smithii) and infecting with a phage Phage G.
