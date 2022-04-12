@@ -8,3 +8,4 @@ description: |
 
 - [ResearchGate](https://www.researchgate.net/profile/Tania_Kurbessoian)
 - [GoogleScholar](https://scholar.google.com/citations?user=KZcoGKkAAAAJ&hl=en&oi=ao)
+- [Complete list of publications](img/publication.pdf)
