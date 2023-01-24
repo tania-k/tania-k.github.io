@@ -1,8 +1,8 @@
 ---
 layout: default
-img: Desert Coniosporium apollonius.mp4
+img: Ph.D.JPG
 category: Education
-title: PhD Candidate
+title: Ph.D.
 description: 2022
 ---
 
@@ -10,3 +10,8 @@ description: 2022
 * University of California, Riverside
 * Position: ​Graduate Student advised by Dr. Jason Stajich
 * Activities: ​Research focused on studying Micro-Colonial Fungi (MCFs) isolated from Biological Soil Crusts (BSCs). Conduct laboratory research in the areas of single nucleotide polymorphisms, genome sequencing and metagenomics. This involves data collection, DNA isolation, analysis and interpretation of results, including next generation sequencing data and bioinformatics analysis.
+* Organization involvement - AWIS leadership for 5 years. (https://awisucr.wixsite.com/awisucr)
+*                          - Mycological Society of America - Student and PostDoc Section, Social media coordinator, Vice-Chair, Chair. 
+* Non-Profit - International Congress of Armenian Mycologists (ICAM) conceptualized in November 2020. 
+
+*            * ICAM is dedicated to connect with Armenian mycologists to observe environmental effects on microbial diversity but also looking into remediation efforts using fungal mycelium. Tania is committed to continuing this organization to strengthen the academic ties to Armenia and to provide Armenian students the opportunity to conduct research in American facilities while bringing their research to the international scientific community.
