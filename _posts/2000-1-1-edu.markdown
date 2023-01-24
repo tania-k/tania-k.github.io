@@ -18,4 +18,4 @@ description: 2022
 
 *            * ICAM is dedicated to connect with Armenian mycologists to observe environmental effects on microbial diversity but also looking into remediation efforts using fungal mycelium. Tania is committed to continuing this organization to strengthen the academic ties to Armenia and to provide Armenian students the opportunity to conduct research in American facilities while bringing their research to the international scientific community.
 
-{% include gallery.html image1="img/exp/Ph.D.jpg" image2="img/exp/GRC.jpg" image3="img/exp/MSA.jpg" image4="img/exp/FG.jpg" %}
+{% include gallery.html image1="img/exp/Ph.D.jpg" width="100", image2="img/exp/GRC.jpg" width="100", image3="img/exp/MSA.jpg" width="100", image4="img/exp/FG.jpg" width="100" %}
