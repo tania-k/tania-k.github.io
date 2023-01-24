@@ -1,18 +1,13 @@
 ---
 layout: default
+img: Ph.D.jpg
+img2: GRC.jpg
+img3: MSA.jpg
+img4: /FG.jpg
 category: Education
 title: Ph.D.
 description: 2022
 ---
-
-
-<p float="left">
-  <img src="/Ph.D.jpg" width="100" />
-  <img src="/GRC.jpg" width="100" /> 
-  <img src="/MSA.jpg" width="100" />
-  <img src="/FG.jpg" width="100" />
-</p>
-
 * __2022__
 * University of California, Riverside
 * Position: ​Graduate Student advised by Dr. Jason Stajich
