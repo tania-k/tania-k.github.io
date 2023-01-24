@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Ph.D.JPG
+img: Ph.D.jpg
 category: Education
 title: Ph.D.
 description: 2022
