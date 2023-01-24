@@ -1,5 +1,10 @@
 ---
 layout: default
+category: Education
+title: Ph.D.
+description: 2022
+---
+
 
 <p float="left">
   <img src="/Ph.D.jpg" width="100" />
@@ -7,10 +12,6 @@ layout: default
   <img src="/MSA.jpg" width="100" />
   <img src="/FG.jpg" width="100" />
 </p>
-category: Education
-title: Ph.D.
-description: 2022
----
 
 * __2022__
 * University of California, Riverside
