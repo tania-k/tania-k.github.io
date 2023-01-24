@@ -3,7 +3,7 @@ layout: default
 img: Desert Coniosporium apollonius.mp4
 category: Education
 title: PhD Candidate
-description: |
+description: 2022
 ---
 
 * __2022__
