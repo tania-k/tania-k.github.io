@@ -1,6 +1,9 @@
 ---
 layout: default
-img: Ph.D.jpg GRC.jpg MSA.jpg FG.jpg
+img: Ph.D.jpg   
+img: GRC.jpg
+img: MSA.jpg
+img: FG.jpg
 category: Education
 title: Ph.D.
 description: 2022
