@@ -16,4 +16,4 @@ description: |
 * Tania has also had the distinct pleasure of mentoring two POC undergraduate women in supporting them with resources (public health and graduate school applications) and opportunities. Along with being involved with UC Riverside’s Graduate Student Mentorship Program she has provided mentorship to 7 first year graduate students in different graduate programs including: Computer Science, Mathematics and Microbiology. 
 * Tania finds fulfillment in guiding and helping other students with difficulties they may be experiencing during their graduate program.
 
-{% include gallery.html image1="img/exp/DEI.jpg" width="100", image2="img/exp/AWIS_tea.jpg" width="100", image3="img/exp/ICAM.jpg" width="100" %}
+{% include gallery.html image1="img/exp/DEI.jpg"<img height="350" hspace="20"/> image2="img/exp/AWIS_tea.jpg" <img height="350" hspace="20"/> image3="img/exp/ICAM.jpg" <img height="350" hspace="20"/> %}
