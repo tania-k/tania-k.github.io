@@ -17,5 +17,3 @@ description: 2022
 * Non-Profit - International Congress of Armenian Mycologists (ICAM) conceptualized in November 2020. 
 
 *            * ICAM is dedicated to connect with Armenian mycologists to observe environmental effects on microbial diversity but also looking into remediation efforts using fungal mycelium. Tania is committed to continuing this organization to strengthen the academic ties to Armenia and to provide Armenian students the opportunity to conduct research in American facilities while bringing their research to the international scientific community.
-
-{% include gallery.html image1="img/exp/Ph.D.jpg" <img height="350" hspace="20"/> image2="img/exp/GRC.jpg" <img height="350" hspace="20"/> image3="img/exp/MSA.jpg" <img height="350" hspace="20"/> image4="img/exp/FG.jpg" <img height="350" hspace="20"/> %}
