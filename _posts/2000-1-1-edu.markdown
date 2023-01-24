@@ -3,7 +3,7 @@ layout: default
 img: Ph.D.jpg
 img2: GRC.jpg
 img3: MSA.jpg
-img4: /FG.jpg
+img4: FG.jpg
 category: Education
 title: Ph.D.
 description: 2022
