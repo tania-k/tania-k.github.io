@@ -1,4 +1,4 @@
-Source code of my <a href="https://www.dcassol.com"> personal website</a>.
+Welcome to my Github repo page for my personal website. You are more than welcome to clone this repo for your own personal use!
 
 Original code from <a href="https://github.com/WesleyyC/wesleyyc.github.io"> here</a>.
 
