@@ -6,6 +6,6 @@ title: "Graduate Student Researcher"
 description: |
 ---
 
-* __July 2016 – September 2016__
+* __2016__
 * *Jet Propulsion Laboratories*
 * Conducted sterility testing and microbial load of high heat resistent epoxies utilized on prior and future space mission rovers.
