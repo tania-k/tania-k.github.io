@@ -1,6 +1,8 @@
 ---
 layout: default
-img: DEI.jpg; AWIS_tea.jpg; ICAM.jpg
+img: DEI.jpg  
+img: AWIS_tea.jpg
+img: ICAM.jpg
 category: Experiences
 title: DEI Statement
 description: |
