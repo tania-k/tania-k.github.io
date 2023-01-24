@@ -1,6 +1,6 @@
 ---
 layout: default
-img: DEI.png
+img: DEI.jpg
 category: Experiences
 title: DEI Statement
 description: |
