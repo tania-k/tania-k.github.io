@@ -3,7 +3,7 @@ layout: default
 img: Ph.D.JPG
 category: Education
 title: Ph.D.
-description: 2022
+description: | 2022
 ---
 
 * __2022__
