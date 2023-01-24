@@ -3,10 +3,11 @@ layout: default
 img: batchelors.jpg
 category: Education
 title: Bachelor's in Microbiology
-description: Experience in working with methanogens (anaerobic archaea Methanobrevibacter smithii) and infecting with a phage Phage G.
+description: 2013
 ---
 
-* __2010 - 2013__
+* __2013__
+* Experience in working with methanogens (anaerobic archaea Methanobrevibacter smithii) and infecting with a phage Phage G.
 * California State University, Northdidge
 * Advisor: Dr. Larry Baresi
 * Outreach, President of MSA - Microbiology Students' Association
