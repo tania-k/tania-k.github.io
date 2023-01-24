@@ -3,7 +3,7 @@ layout: default
 img: sporosarcina.jpg
 category: Education
 title: M.Sc. in Biology
-description: 2014-2016
+description: 2016
 ---
 
 * __2016__
